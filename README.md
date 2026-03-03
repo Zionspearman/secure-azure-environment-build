@@ -30,7 +30,7 @@ The full deployment is demonstrated in a structured YouTube lab series.
 | Part | Topic | Video | Walkthrough |
 |------|-------|-------|-------------|
 | 1 | Planning & Architecture | (https://youtu.be/-Lg2ApqY_Ws?si=ygi290k0iYA2lkWp) | [Part 1](walkthrough/part-1-planning.md) |
-| 2 | Resource Groups + Tags + Locks | (add link) | [Part 2](walkthrough/part-2-foundation.md) |
+| 2 | Resource Groups + Tags + Locks | (https://youtu.be/YICPzIMlhG8) | [Part 2](walkthrough/part-2-foundation.md) |
 | 3 | Networking (VNet/Subnets/NSGs) | (add link) | [Part 3](walkthrough/part-3-networking.md) |
 | 4 | Identity & RBAC | (add link) | [Part 4](walkthrough/part-4-rbac.md) |
 | 5 | VM Deployment + Secure Access | (add link) | [Part 5](walkthrough/part-5-compute.md) |
