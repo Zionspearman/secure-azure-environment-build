@@ -35,7 +35,7 @@ The full deployment is demonstrated in a structured YouTube lab series.
 | 4 | VM Deployment + Secure Access | (https://youtu.be/fxGuteos9iA?si=SnKJQngKARf90-aU) | [Part 4](walkthrough/part-4-rbac.md) |
 | 5 | Identity & RBAC | (https://youtu.be/F-Pn0LEF1Us?si=_U7HbzOl0wgNVAdn) | [Part 5](walkthrough/part-5-compute.md) |
 | 6 | Storage | (https://youtu.be/9HiAtMlwWDY) | [Part 6](walkthrough/part-6-storage.md) |
-| 7 | Backup | (add link) | [Part 7](walkthrough/part-7-backup.md) |
+| 7 | Backup | (https://youtu.be/-cwl3yF1E7w) | [Part 7](walkthrough/part-7-backup.md) |
 | 8 | Monitoring & Alerts | (add link) | [Part 8](walkthrough/part-8-monitoring.md) |
 | 9 | Governance (Policy) | (add link) | [Part 9](walkthrough/part-9-governance.md) |
 | 10 | Security Posture Review | (add link) | [Part 10](walkthrough/part-10-security.md) |
